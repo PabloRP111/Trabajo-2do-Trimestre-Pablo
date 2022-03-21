@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="biblioteca.css"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="biblioteca.xsd">
+  <libro>
+    <foto>summer.webp</foto>
+    <sexo>Hembra </sexo>
+    <titulo>Gato encima del sofa, cuidado con los pelos </titulo>
+    <autor fechaNacimiento="28/03/1973 ">Fótografo anónimo </autor>
+    <fechaPublicacion año="2022 "/>
+  </libro>
+  <libro>
+    <foto>miki.webp</foto>
+    <sexo>Macho </sexo>
+    <titulo>  Miki se mimetiza en el campo </titulo>
+    <autor fechaNacimiento="28/03/1986 ">Fotógrafo anónimo </autor>
+    <fechaPublicacion año="2022 "/>
+  </libro>
+  <libro>
+    <foto>senda.webp</foto>
+    <sexo>Hembra </sexo>
+    <titulo>Senda apunto de alcanzar el nirvana </titulo>
+    <autor fechaNacimiento="28/03/1969 ">Fotógrafo anónimo </autor>
+    <fechaPublicacion año="2022 "/>
+  </libro>
+</biblioteca>
